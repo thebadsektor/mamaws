@@ -7,7 +7,7 @@ p.create 385 diwa mythical 1
 p.create 491 milid mythical 1
 p.create 144 quartzana legendary 1
 p.create 145 dagitab legendary 1
-p.create 146 azrura legendary 1
+p.create 146 azura legendary 1
 p.create 150 prot2 legendary 1
 p.create 479 kislap rare 1
 p.create 135 statix rare 1
