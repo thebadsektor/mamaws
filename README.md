@@ -7,7 +7,7 @@ p.create 385 diwa mythical 1
 p.create 491 milid mythical 1
 p.create 144 quartzana legendary 1
 p.create 145 dagitab legendary 1
-p.create 146 azura legendary 1
+p.create 146 azrura legendary 1
 p.create 150 prot2 legendary 1
 p.create 479 kislap rare 1
 p.create 135 statix rare 1
@@ -35,17 +35,17 @@ p.create 725 menggay common 1
 p.create 239 zapzap common 1
 p.create 417 lucifer common 1
 p.create 58 growela common 1
-p.create 37 yopa common 1
+p.create 37 fieros common 1
 p.create 285 mooshi common 1
 p.create 607 alidnak common 1
 p.create 255 chickotik common 1
-p.create 194 gibut common 1
+p.create 194 wisik common 1
 p.create 116 bizkit common 1
 p.create 129 aipalit common 1
 p.create 81 balani common 1
-p.create 152 chickama starter 1
-p.create 258 plok starter 1
-p.create 653 fieros starter 1
+p.create 152 omad starter 1
+p.create 258 gibut starter 1
+p.create 653 yopa starter 1
 
 p.hi proto
 p.hi selestik
@@ -81,14 +81,14 @@ p.hi menggay
 p.hi zapzap
 p.hi lucifer
 p.hi growela
-p.hi yopa
+p.hi fieros
 p.hi mooshi
 p.hi alidnak
 p.hi chickotik
-p.hi gibut
+p.hi wisik
 p.hi bizkit
 p.hi aipalit
 p.hi balani
-p.hi chickama
-p.hi plok
-p.hi fieros
+p.hi omad
+p.hi gibut
+p.hi yopa
